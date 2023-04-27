@@ -1,4 +1,4 @@
-name: From Test
+name: Create Relaese
 on:
   workflow_dispatch:
     inputs:
